@@ -1,0 +1,9 @@
+.image-shape {
+   width: 75%;
+   border-radius: 100%;
+   box-shadow: 2px 7px 15px grey;
+    }
+  body {
+    margin-top: 20px;
+  background-color: #dddddd;
+  }
